@@ -1,7 +1,7 @@
 '''
 Snake game.
 Authors:
-<insert the names of your teammates here>
+<Joseph Esema and Femi Adeyemo>
 '''
 
 import pygame
